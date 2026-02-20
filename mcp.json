@@ -1,0 +1,6 @@
+{
+  "google-calendar": {
+    "type": "http",
+    "url": "https://api.gpt.space/servers/google-calendar/mcp"
+  }
+}

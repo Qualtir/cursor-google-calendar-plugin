@@ -1,24 +1,11 @@
 {
-  "name": "cursor-plugin-starters",
-  "owner": {
-    "name": "Your Org",
-    "email": "plugins@example.com"
+  "name": "google-calendar",
+  "version": "0.1.0",
+  "description": "MCP server for managing Google Calendar — view, create, and modify events directly through your AI assistant.",
+  "author": {
+    "name": "Qualtir",
+    "email": "contact@gpt.space"
   },
-  "metadata": {
-    "description": "Starter marketplace template for Cursor plugins",
-    "version": "0.1.0",
-    "pluginRoot": "plugins"
-  },
-  "plugins": [
-    {
-      "name": "starter-simple",
-      "source": "./plugins/starter-simple",
-      "description": "Minimal plugin with rules and skills only"
-    },
-    {
-      "name": "starter-advanced",
-      "source": "./plugins/starter-advanced",
-      "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP"
-    }
-  ]
+  "logo": "assets/logo.svg",
+  "keywords": ["google", "productivity", "calendar", "events", "calls", "planning", "meeting", "mcp"]
 }
